@@ -38,7 +38,7 @@
 	Brown Dress Shoes
 02/07/2017:
 	Purple Collared shirt
-	Khaki Paints
+	Khaki Pants
 	Brown Dress Shoes
 02/08/2017:
 	Green long sleeved shirt
@@ -51,4 +51,8 @@
 02/13/2017:
 	Checkered blue and white dress shirt
 	Tan Khakis
+	Brown Dress Shoes
+02/14/2017:
+	Purple Collared shirt
+	Khaki Pants
 	Brown Dress Shoes
